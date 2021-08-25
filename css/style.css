@@ -24,6 +24,10 @@ body {
   color: #4c4c4c;
 }
 
+p{
+  text-align: justify;
+}
+
 p, .paragraph {
   font-weight: 400;
   color: #4c4c4c;
